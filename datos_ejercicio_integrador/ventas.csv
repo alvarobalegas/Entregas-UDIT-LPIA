@@ -1,0 +1,801 @@
+order_id,customer_id,product,category,quantity,price,discount,order_date,region,delivered
+50001,1318,Coche Teledirigido,Juguetes,2,59.33,0.0,2024-12-13,Este,Yes
+50002,1179,Smartphone X,Electrónica,2,660.75,0.0,2024-03-15,Este,Yes
+50003,1396,Sartén Antiadherente,Hogar,1,30.07,0.0,2024-03-20,Norte,Yes
+50004,1026,Coche Teledirigido,Juguetes,6,62.18,0.05,2024-12-29,Este,Yes
+50005,1069,Zapatillas Running,Ropa,3,97.96,0.15,2024-12-06,,Yes
+50006,1388,Sartén Antiadherente,Hogar,5,33.02,0.0,2025-08-24,Este,Yes
+50007,1116,Zapatillas Running,Ropa,1,96.87,0.3,2024-12-04,Norte,Yes
+50008,1125,Coche Teledirigido,Juguetes,3,59.19,0.1,2025-08-20,Sur,Yes
+50009,1317,Smartphone X,Electrónica,4,733.08,0.4,2025-05-18,Sur,No
+50010,1076,Coche Teledirigido,Juguetes,1,62.86,0.15,2024-09-02,Norte,Yes
+50011,1206,Juego Bloques 500pzs,Juguetes,1,47.87,0.3,2025-07-22,Norte,Yes
+50012,1115,Juego Bloques 500pzs,Juguetes,1,44.68,0.05,2024-11-21,Sur,Yes
+50013,1080,Chaqueta Invierno,Ropa,1,86.67,0.0,2025-01-21,Este,Yes
+50014,1386,Sartén Antiadherente,Hogar,2,32.51,0.0,2024-04-25,Norte,Yes
+50015,1080,Chaqueta Invierno,Ropa,1,82.5,0.1,2024-06-25,Oeste,Yes
+50016,1038,Camiseta Básica,Ropa,1,12.24,0.0,2024-12-12,Este,Yes
+50017,1270,Coche Teledirigido,Juguetes,3,60.02,0.1,2024-07-27,Oeste,Yes
+50018,1347,Sartén Antiadherente,Hogar,1,30.35,0.0,2025-01-24,Sur,Yes
+50019,1051,Cafetera Espresso,Hogar,1,261.22,0.15,2024-04-13,Sur,Yes
+50020,1284,Auriculares Pro,Electrónica,3,154.69,0.0,2024-07-16,Este,Yes
+50021,1217,Juego Bloques 500pzs,Juguetes,1,43.82,0.3,2025-03-01,Oeste,Yes
+50022,1333,Aspiradora Ciclónica,Hogar,1,159.79,0.0,2025-01-31,Sur,Yes
+50023,1051,Muñeca Interactiva,Juguetes,1,37.78,0.0,2025-08-23,Este,Yes
+50024,1391,Auriculares Pro,Electrónica,1,124.59,0.15,2025-07-07,Este,Yes
+50025,1248,Sartén Antiadherente,Hogar,2,35.46,,2025-05-20,Este,Yes
+50026,1337,Sartén Antiadherente,Hogar,1,30.49,0.1,2024-03-01,Norte,Yes
+50027,1145,Sartén Antiadherente,Hogar,1,30.94,0.4,2025-01-25,Sur,Yes
+50028,1378,Smartphone X,Electrónica,8,621.32,0.0,2024-07-04,Sur,Yes
+50029,1251,Zapatillas Running,Ropa,6,89.96,0.15,2024-07-25,Oeste,Yes
+50030,1051,Camiseta Básica,Ropa,1,10.56,0.0,2024-06-24,Sur,Yes
+50031,1370,Aspiradora Ciclónica,Hogar,1,166.03,0.05,2024-11-06,Sur,Yes
+50032,1319,Portátil Air,Electrónica,2,1433.98,0.0,2024-05-08,Oeste,Yes
+50033,1121,Zapatillas Running,Ropa,4,92.56,0.0,2024-12-17,Sur,Yes
+50034,1219,Aspiradora Ciclónica,Hogar,4,140.45,0.05,2024-05-31,Norte,Yes
+50035,1156,Smartphone X,Electrónica,1,743.04,0.1,2024-11-30,Norte,Yes
+50036,1218,Juego Bloques 500pzs,Juguetes,1,42.71,0.0,2025-02-07,Norte,Yes
+50037,1387,Cafetera Espresso,Hogar,2,271.65,0.3,2024-06-07,Norte,No
+50038,1360,Smartphone X,Electrónica,5,685.2,0.05,2024-04-26,Sur,Yes
+50039,1087,Smartphone X,Electrónica,5,668.09,0.0,2025-05-17,Oeste,Yes
+50040,1389,Coche Teledirigido,Juguetes,1,58.27,0.1,2025-04-10,Este,Yes
+50041,1176,Camiseta Básica,Ropa,2,12.64,0.0,2024-07-22,Norte,Yes
+50042,1282,Coche Teledirigido,Juguetes,1,58.06,0.0,2025-06-30,Este,Yes
+50043,1306,Zapatillas Running,Ropa,3,91.7,0.1,2024-06-30,Norte,Yes
+50044,1194,Chaqueta Invierno,Ropa,6,77.9,0.0,2025-07-22,Oeste,Yes
+50045,1183,Camiseta Básica,Ropa,2,10.93,0.0,2024-05-02,Norte,Yes
+50046,1183,Aspiradora Ciclónica,Hogar,1,163.42,0.1,2025-02-26,Este,Yes
+50047,1346,Auriculares Pro,Electrónica,2,112.87,0.0,2024-03-11,Sur,Yes
+50048,1155,Chaqueta Invierno,Ropa,2,76.54,0.15,2024-06-17,Este,Yes
+50049,1112,Chaqueta Invierno,Ropa,4,83.2,0.15,2024-10-09,Sur,Yes
+50050,1145,Auriculares Pro,Electrónica,1,131.74,0.0,2024-04-16,Este,Yes
+50051,1078,Chaqueta Invierno,Ropa,5,82.26,,2024-11-06,Norte,Yes
+50052,1157,Sartén Antiadherente,Hogar,1,31.85,,2024-07-06,Oeste,Yes
+50053,1046,Cafetera Espresso,Hogar,1,269.39,0.1,2024-04-24,Sur,Yes
+50054,1036,Auriculares Pro,Electrónica,1,137.35,0.0,2025-08-11,Este,Yes
+50055,1290,Coche Teledirigido,Juguetes,1,60.84,0.3,2025-08-22,Oeste,Yes
+50056,1031,Coche Teledirigido,Juguetes,1,62.83,,2025-08-11,Oeste,Yes
+50057,1228,Cafetera Espresso,Hogar,3,262.08,,2024-05-24,Norte,Yes
+50058,1312,Muñeca Interactiva,Juguetes,1,37.8,0.0,2024-09-26,Sur,Yes
+50059,1290,Zapatillas Running,Ropa,1,86.06,0.0,2024-08-27,Norte,Yes
+50060,1179,Juego Bloques 500pzs,Juguetes,1,46.32,0.05,2024-08-26,Norte,Yes
+50061,1078,Cafetera Espresso,Hogar,1,258.52,0.05,2024-10-15,Este,Yes
+50062,1373,Sartén Antiadherente,Hogar,5,34.44,0.5,2024-12-05,Oeste,No
+50063,1335,Portátil Air,Electrónica,6,1120.41,0.0,2024-11-22,Oeste,Yes
+50064,1245,Sartén Antiadherente,Hogar,1,29.97,0.0,2024-08-08,Este,Yes
+50065,1035,Coche Teledirigido,Juguetes,4,60.9,0.0,2025-08-20,Este,Yes
+50066,1015,Muñeca Interactiva,Juguetes,3,38.81,0.0,2025-08-20,Oeste,Yes
+50067,1127,Zapatillas Running,Ropa,8,82.46,0.2,2024-08-29,Oeste,Yes
+50068,1064,Portátil Air,Electrónica,1,1230.48,0.3,2024-06-30,Norte,Yes
+50069,1345,Cafetera Espresso,Hogar,1,216.71,0.2,2024-12-18,Este,Yes
+50070,1083,Smartphone X,Electrónica,2,652.75,0.0,2024-09-19,Oeste,Yes
+50071,1114,Auriculares Pro,Electrónica,5,141.21,0.0,2025-08-24,Sur,Yes
+50072,1391,Sartén Antiadherente,Hogar,3,36.09,0.1,2024-10-22,Sur,Yes
+50073,1328,Muñeca Interactiva,Juguetes,2,35.68,0.0,2024-03-22,Oeste,Yes
+50074,1088,Camiseta Básica,Ropa,1,11.72,0.1,2024-05-08,Oeste,No
+50075,1154,Zapatillas Running,Ropa,3,95.28,0.0,2024-04-10,Oeste,Yes
+50076,1207,Camiseta Básica,Ropa,5,13.5,0.0,2024-09-27,Oeste,Yes
+50077,1266,Zapatillas Running,Ropa,2,91.72,0.2,2024-08-21,Norte,Yes
+50078,1375,Smartphone X,Electrónica,3,675.67,0.0,2025-06-14,Sur,Yes
+50079,1349,Aspiradora Ciclónica,Hogar,2,176.24,0.4,2025-07-02,Este,Yes
+50080,1391,Aspiradora Ciclónica,Hogar,2,154.83,0.0,2024-05-17,Este,Yes
+50081,1017,Camiseta Básica,Ropa,2,12.61,0.0,2025-08-01,Sur,Yes
+50082,1095,Camiseta Básica,Ropa,4,10.76,0.0,2025-01-15,Este,Yes
+50083,1226,Juego Bloques 500pzs,Juguetes,7,44.46,0.0,2024-08-16,Sur,Yes
+50084,1020,Portátil Air,Electrónica,2,1059.71,0.05,2024-10-10,Este,Yes
+50085,1143,Smartphone X,Electrónica,1,647.36,0.0,2024-10-29,Sur,Yes
+50086,1062,Smartphone X,Electrónica,2,740.06,0.05,2024-06-02,Sur,Yes
+50087,1374,Coche Teledirigido,Juguetes,1,58.79,0.2,2025-06-20,Norte,Yes
+50088,1026,Chaqueta Invierno,Ropa,1,77.24,0.0,2024-03-07,Norte,Yes
+50089,1060,Auriculares Pro,Electrónica,1,122.24,0.0,2024-04-08,Oeste,No
+50090,1079,Coche Teledirigido,Juguetes,2,58.09,0.0,2024-07-29,Sur,Yes
+50091,1060,Auriculares Pro,Electrónica,1,131.72,0.15,2024-05-18,Norte,Yes
+50092,1228,Chaqueta Invierno,Ropa,1,84.44,0.05,2024-04-03,Este,Yes
+50093,1146,Smartphone X,Electrónica,4,570.55,0.0,2024-09-27,Este,Yes
+50094,1365,Cafetera Espresso,Hogar,1,234.5,0.05,2024-09-23,Norte,Yes
+50095,1105,Cafetera Espresso,Hogar,3,251.77,0.05,2024-05-08,Sur,Yes
+50096,1215,Juego Bloques 500pzs,Juguetes,5,44.69,0.0,2025-05-19,Norte,Yes
+50097,1265,Camiseta Básica,Ropa,2,12.34,0.0,2025-06-28,Este,Yes
+50098,1251,Camiseta Básica,Ropa,1,12.22,0.5,2025-03-31,,Yes
+50099,1319,Muñeca Interactiva,Juguetes,1,38.17,0.0,2024-12-12,Norte,Yes
+50100,1081,Juego Bloques 500pzs,Juguetes,2,43.34,0.0,2025-08-03,Norte,Yes
+50101,1203,Smartphone X,Electrónica,2,686.99,0.0,2024-09-09,Este,Yes
+50102,1321,Cafetera Espresso,Hogar,1,269.02,0.05,2024-10-21,Norte,Yes
+50103,1346,Juego Bloques 500pzs,Juguetes,2,42.69,0.0,2024-03-09,Oeste,Yes
+50104,1248,Sartén Antiadherente,Hogar,2,31.86,0.0,2025-03-24,Norte,Yes
+50105,1261,Aspiradora Ciclónica,Hogar,1,161.04,0.0,2024-04-20,Este,Yes
+50106,1346,Smartphone X,Electrónica,3,775.35,0.1,2025-03-01,Sur,Yes
+50107,1250,Smartphone X,Electrónica,1,684.31,0.0,2025-05-04,Sur,Yes
+50108,1380,Smartphone X,Electrónica,1,745.91,0.3,2024-06-28,Norte,Yes
+50109,1052,Auriculares Pro,Electrónica,4,140.12,0.0,2025-01-30,Oeste,Yes
+50110,1140,Muñeca Interactiva,Juguetes,1,38.83,0.0,2024-08-14,Oeste,Yes
+50111,1045,Aspiradora Ciclónica,Hogar,3,156.65,0.4,2024-10-05,Norte,Yes
+50112,1037,Juego Bloques 500pzs,Juguetes,2,43.96,0.15,2024-12-16,Norte,Yes
+50113,1189,Camiseta Básica,Ropa,1,11.79,0.0,2024-07-15,Oeste,Yes
+50114,1091,Muñeca Interactiva,Juguetes,6,41.33,0.2,2025-05-12,Este,Yes
+50115,1163,Portátil Air,Electrónica,1,1218.39,0.05,2024-10-03,Norte,Yes
+50116,1176,Coche Teledirigido,Juguetes,1,59.97,0.0,2024-11-09,Norte,Yes
+50117,1249,Smartphone X,Electrónica,5,643.94,0.2,2025-05-22,Este,Yes
+50118,1379,Smartphone X,Electrónica,3,651.66,0.15,2024-07-04,Este,No
+50119,1340,Smartphone X,Electrónica,3,803.88,0.0,2024-11-04,,Yes
+50120,1152,Juego Bloques 500pzs,Juguetes,1,44.44,0.05,2025-08-28,Oeste,Yes
+50121,1131,Camiseta Básica,Ropa,1,11.35,0.0,2024-10-06,Sur,Yes
+50122,1309,Zapatillas Running,Ropa,3,104.52,0.0,2024-05-03,Sur,Yes
+50123,1050,Zapatillas Running,Ropa,1,96.87,0.4,2024-08-04,Sur,No
+50124,1217,Juego Bloques 500pzs,Juguetes,1,46.82,0.05,2025-08-07,Sur,Yes
+50125,1170,Chaqueta Invierno,Ropa,4,78.24,0.05,2025-04-21,Norte,Yes
+50126,1074,Smartphone X,Electrónica,1,683.41,0.05,2025-05-19,Norte,No
+50127,1247,Chaqueta Invierno,Ropa,1,78.06,0.05,2024-07-18,Sur,Yes
+50128,1129,Camiseta Básica,Ropa,1,10.84,0.0,2025-06-04,Este,Yes
+50129,1075,Cafetera Espresso,Hogar,2,247.47,0.4,2024-10-02,Norte,Yes
+50130,1262,Juego Bloques 500pzs,Juguetes,3,45.93,0.05,2025-05-11,Sur,Yes
+50131,1070,Auriculares Pro,Electrónica,5,145.71,0.1,2025-06-27,,Yes
+50132,1270,Juego Bloques 500pzs,Juguetes,1,45.27,0.05,2024-06-23,Este,Yes
+50133,1065,Smartphone X,Electrónica,1,584.79,0.0,2025-07-29,Oeste,Yes
+50134,1174,Aspiradora Ciclónica,Hogar,2,157.95,0.0,2025-02-11,Oeste,Yes
+50135,1324,Chaqueta Invierno,Ropa,2,94.15,0.0,2025-04-06,Este,Yes
+50136,1092,Camiseta Básica,Ropa,2,12.73,0.0,2025-04-20,Norte,Yes
+50137,1308,Zapatillas Running,Ropa,6,89.61,0.1,2024-06-01,Sur,Yes
+50138,1289,Camiseta Básica,Ropa,2,12.5,0.2,2025-04-14,Este,No
+50139,1362,Juego Bloques 500pzs,Juguetes,2,42.66,0.0,2024-06-25,Norte,Yes
+50140,1068,Muñeca Interactiva,Juguetes,8,35.3,0.0,2024-07-28,Norte,Yes
+50141,1287,Juego Bloques 500pzs,Juguetes,1,43.9,0.1,2024-05-03,Norte,Yes
+50142,1375,Zapatillas Running,Ropa,6,95.61,0.0,2024-06-08,Sur,Yes
+50143,1306,Sartén Antiadherente,Hogar,2,27.81,0.3,2025-08-20,Sur,No
+50144,1076,Zapatillas Running,Ropa,2,87.36,0.0,2024-08-28,Norte,Yes
+50145,1329,Juego Bloques 500pzs,Juguetes,6,45.03,0.0,2024-09-29,Oeste,Yes
+50146,1043,Sartén Antiadherente,Hogar,2,31.09,0.0,2024-11-19,Oeste,Yes
+50147,1236,Zapatillas Running,Ropa,2,97.63,0.3,2025-03-27,Norte,Yes
+50148,1200,Chaqueta Invierno,Ropa,1,72.28,0.0,2025-01-10,Oeste,Yes
+50149,1213,Chaqueta Invierno,Ropa,3,82.95,0.1,2024-12-20,Norte,Yes
+50150,1208,Sartén Antiadherente,Hogar,2,29.35,0.0,2025-06-03,,Yes
+50151,1013,Cafetera Espresso,Hogar,1,277.63,0.0,2024-11-28,Oeste,Yes
+50152,1204,Zapatillas Running,Ropa,3,83.59,0.2,2025-04-27,Norte,No
+50153,1375,Juego Bloques 500pzs,Juguetes,3,41.56,0.0,2025-07-14,Oeste,Yes
+50154,1175,Juego Bloques 500pzs,Juguetes,2,46.31,0.0,2025-03-07,Oeste,Yes
+50155,1111,Zapatillas Running,Ropa,1,106.07,0.05,2024-03-20,Oeste,Yes
+50156,1398,Coche Teledirigido,Juguetes,2,60.3,0.2,2024-07-23,Oeste,Yes
+50157,1040,Portátil Air,Electrónica,1,1246.24,0.0,2025-02-03,Este,Yes
+50158,1195,Muñeca Interactiva,Juguetes,1,39.05,0.0,2024-11-18,Norte,No
+50159,1206,Camiseta Básica,Ropa,2,11.14,0.5,2024-08-04,Oeste,No
+50160,1192,Sartén Antiadherente,Hogar,1,30.9,0.1,2024-09-01,Este,Yes
+50161,1369,Camiseta Básica,Ropa,1,10.98,0.2,2024-04-13,Este,Yes
+50162,1169,Zapatillas Running,Ropa,3,86.5,0.15,2024-07-07,Sur,Yes
+50163,1390,Chaqueta Invierno,Ropa,1,81.22,0.1,2025-05-04,Este,Yes
+50164,1027,Cafetera Espresso,Hogar,8,229.42,0.0,2024-03-06,Norte,Yes
+50165,1294,Smartphone X,Electrónica,6,714.64,0.0,2025-06-03,Este,Yes
+50166,1238,Coche Teledirigido,Juguetes,2,53.62,0.1,2024-09-03,Norte,Yes
+50167,1097,Coche Teledirigido,Juguetes,7,60.22,0.1,2025-05-18,Este,Yes
+50168,1092,Sartén Antiadherente,Hogar,5,30.91,0.4,2024-07-19,Oeste,Yes
+50169,1288,Sartén Antiadherente,Hogar,1,35.15,0.05,2025-05-29,Sur,Yes
+50170,1256,Cafetera Espresso,Hogar,3,254.64,0.0,2025-01-08,Sur,No
+50171,1245,Portátil Air,Electrónica,1,1302.72,0.05,2025-06-11,Sur,Yes
+50172,1021,Cafetera Espresso,Hogar,3,235.83,0.05,2024-04-04,Oeste,Yes
+50173,1240,Portátil Air,Electrónica,2,1203.71,0.0,2025-05-12,Este,Yes
+50174,1393,Cafetera Espresso,Hogar,1,231.9,0.15,2024-07-27,Sur,Yes
+50175,1007,Camiseta Básica,Ropa,1,11.65,0.05,2024-09-14,Norte,Yes
+50176,1188,Cafetera Espresso,Hogar,7,244.43,0.0,2024-03-25,Norte,Yes
+50177,1198,Juego Bloques 500pzs,Juguetes,1,42.71,0.05,2025-08-06,Sur,Yes
+50178,1359,Portátil Air,Electrónica,1,1096.98,0.1,2025-02-16,Oeste,Yes
+50179,1114,Aspiradora Ciclónica,Hogar,1,143.27,0.3,2025-08-21,Este,Yes
+50180,1191,Zapatillas Running,Ropa,2,79.44,0.0,2025-01-06,Norte,Yes
+50181,1287,Camiseta Básica,Ropa,4,11.11,0.05,2024-05-26,Oeste,Yes
+50182,1025,Aspiradora Ciclónica,Hogar,4,165.98,0.05,2024-09-02,Sur,Yes
+50183,1321,Muñeca Interactiva,Juguetes,2,34.64,0.05,2024-10-28,Oeste,No
+50184,1329,Smartphone X,Electrónica,1,632.06,0.0,2024-05-20,Norte,No
+50185,1288,Muñeca Interactiva,Juguetes,1,43.89,,2025-07-25,Este,Yes
+50186,1260,Coche Teledirigido,Juguetes,2,56.37,0.3,2025-08-08,Oeste,Yes
+50187,1300,Sartén Antiadherente,Hogar,4,32.72,0.05,2025-01-04,Norte,Yes
+50188,1313,Aspiradora Ciclónica,Hogar,3,166.15,0.05,2025-01-15,Este,No
+50189,1362,Chaqueta Invierno,Ropa,2,82.66,0.0,2025-03-22,Oeste,Yes
+50190,1172,Auriculares Pro,Electrónica,2,115.25,0.05,2025-03-08,Norte,Yes
+50191,1183,Sartén Antiadherente,Hogar,2,31.48,0.0,2024-04-04,Norte,Yes
+50192,1256,Juego Bloques 500pzs,Juguetes,2,39.9,0.1,2024-12-17,Este,Yes
+50193,1078,Portátil Air,Electrónica,2,1404.32,,2025-05-01,Sur,Yes
+50194,1343,Cafetera Espresso,Hogar,3,221.2,0.1,2025-05-17,Norte,Yes
+50195,1309,Cafetera Espresso,Hogar,2,230.74,0.0,2025-01-22,Sur,Yes
+50196,1253,Juego Bloques 500pzs,Juguetes,6,41.72,0.1,2025-07-06,Este,Yes
+50197,1121,Chaqueta Invierno,Ropa,2,70.72,0.05,2025-01-16,Sur,Yes
+50198,1140,Chaqueta Invierno,Ropa,1,86.48,0.0,2024-09-27,Sur,Yes
+50199,1174,Chaqueta Invierno,Ropa,1,92.4,0.0,2024-10-30,Oeste,Yes
+50200,1266,Coche Teledirigido,Juguetes,2,57.04,0.2,2025-03-14,Este,Yes
+50201,1312,Coche Teledirigido,Juguetes,2,53.55,0.05,2025-06-30,Oeste,Yes
+50202,1269,Chaqueta Invierno,Ropa,2,66.63,0.0,2024-07-05,Sur,Yes
+50203,1372,Muñeca Interactiva,Juguetes,3,38.33,0.0,2024-08-09,Oeste,Yes
+50204,1385,Sartén Antiadherente,Hogar,1,31.29,0.0,2025-02-21,Este,Yes
+50205,1282,Chaqueta Invierno,Ropa,3,75.4,0.1,2025-04-24,Norte,Yes
+50206,1149,Smartphone X,Electrónica,3,709.83,0.05,2024-10-06,Oeste,Yes
+50207,1240,Aspiradora Ciclónica,Hogar,2,163.4,0.0,2025-02-17,Sur,Yes
+50208,1171,Aspiradora Ciclónica,Hogar,2,162.6,,2024-03-04,Norte,Yes
+50209,1252,Muñeca Interactiva,Juguetes,1,38.14,0.1,2024-08-08,Norte,No
+50210,1325,Cafetera Espresso,Hogar,2,229.8,0.15,2025-08-07,Este,Yes
+50211,1148,Smartphone X,Electrónica,4,731.58,0.0,2025-01-11,Norte,Yes
+50212,1203,Sartén Antiadherente,Hogar,5,32.03,0.0,2025-06-20,Sur,Yes
+50213,1019,Cafetera Espresso,Hogar,2,264.48,0.0,2024-06-28,Norte,Yes
+50214,1295,Zapatillas Running,Ropa,1,100.25,0.0,2024-08-07,,Yes
+50215,1196,Zapatillas Running,Ropa,3,85.55,0.0,2025-08-18,,Yes
+50216,1184,Juego Bloques 500pzs,Juguetes,3,40.48,0.0,2025-08-30,Este,Yes
+50217,1213,Aspiradora Ciclónica,Hogar,1,150.59,0.0,2025-06-25,Norte,Yes
+50218,1087,Cafetera Espresso,Hogar,4,230.59,0.1,2024-08-22,Norte,Yes
+50219,1240,Zapatillas Running,Ropa,1,100.02,0.0,2025-05-14,Este,Yes
+50220,1299,Camiseta Básica,Ropa,1,12.3,0.1,2024-11-07,Sur,No
+50221,1140,Sartén Antiadherente,Hogar,1,34.46,0.0,2025-06-07,Este,Yes
+50222,1053,Muñeca Interactiva,Juguetes,1,40.08,0.05,2025-06-11,Norte,Yes
+50223,1155,Aspiradora Ciclónica,Hogar,5,161.32,0.0,2024-10-25,Norte,Yes
+50224,1080,Cafetera Espresso,Hogar,2,269.91,0.15,2024-08-15,Norte,Yes
+50225,1150,Auriculares Pro,Electrónica,1,133.24,0.15,2025-08-18,Sur,Yes
+50226,1251,Muñeca Interactiva,Juguetes,2,39.19,0.0,2024-11-03,Sur,Yes
+50227,1046,Portátil Air,Electrónica,2,1323.25,0.05,2024-10-23,Oeste,Yes
+50228,1299,Muñeca Interactiva,Juguetes,1,39.31,0.0,2025-03-01,Sur,Yes
+50229,1090,Zapatillas Running,Ropa,1,92.98,0.05,2025-07-28,Este,Yes
+50230,1358,Muñeca Interactiva,Juguetes,3,36.71,0.0,2024-05-11,Este,Yes
+50231,1293,Coche Teledirigido,Juguetes,1,61.9,0.0,2025-08-23,Norte,Yes
+50232,1110,Juego Bloques 500pzs,Juguetes,4,48.9,0.0,2024-10-18,Sur,Yes
+50233,1226,Coche Teledirigido,Juguetes,1,58.79,0.2,2024-03-15,Sur,Yes
+50234,1045,Aspiradora Ciclónica,Hogar,3,173.56,0.0,2024-08-17,Sur,Yes
+50235,1040,Coche Teledirigido,Juguetes,4,50.86,0.05,2024-11-09,Norte,Yes
+50236,1383,Portátil Air,Electrónica,1,1194.35,0.0,2025-03-07,Oeste,Yes
+50237,1321,Smartphone X,Electrónica,1,697.04,0.0,2025-01-05,Oeste,Yes
+50238,1062,Sartén Antiadherente,Hogar,6,30.37,0.0,2024-05-14,Norte,Yes
+50239,1114,Juego Bloques 500pzs,Juguetes,2,52.51,0.3,2024-11-24,Este,Yes
+50240,1080,Juego Bloques 500pzs,Juguetes,3,44.79,0.15,2024-07-06,Oeste,Yes
+50241,1159,Sartén Antiadherente,Hogar,1,31.09,0.0,2024-07-26,Sur,Yes
+50242,1117,Sartén Antiadherente,Hogar,1,32.06,0.1,2025-03-26,Oeste,Yes
+50243,1132,Aspiradora Ciclónica,Hogar,2,136.71,0.0,2025-05-16,Este,Yes
+50244,1212,Coche Teledirigido,Juguetes,5,55.86,0.0,2024-05-25,Oeste,No
+50245,1076,Coche Teledirigido,Juguetes,1,63.06,0.05,2025-01-25,Oeste,Yes
+50246,1354,Auriculares Pro,Electrónica,4,123.32,0.0,2024-10-18,Norte,Yes
+50247,1292,Aspiradora Ciclónica,Hogar,3,149.77,0.0,2024-09-01,Sur,Yes
+50248,1305,Chaqueta Invierno,Ropa,1,86.24,0.1,2025-03-27,Este,Yes
+50249,1068,Juego Bloques 500pzs,Juguetes,1,49.22,0.0,2024-07-15,Norte,Yes
+50250,1284,Sartén Antiadherente,Hogar,1,33.16,0.2,2025-04-25,Sur,Yes
+50251,1335,Muñeca Interactiva,Juguetes,2,37.76,0.1,2024-10-07,Oeste,Yes
+50252,1071,Zapatillas Running,Ropa,3,93.41,0.2,2024-04-22,Norte,Yes
+50253,1301,Cafetera Espresso,Hogar,2,234.98,0.05,2025-05-09,Sur,No
+50254,1144,Auriculares Pro,Electrónica,1,120.02,0.2,2025-06-11,Oeste,Yes
+50255,1316,Muñeca Interactiva,Juguetes,3,36.15,0.0,2025-01-04,Sur,Yes
+50256,1192,Auriculares Pro,Electrónica,2,123.42,0.05,2025-04-02,Sur,Yes
+50257,1321,Chaqueta Invierno,Ropa,2,73.28,0.05,2024-05-21,Oeste,Yes
+50258,1059,Coche Teledirigido,Juguetes,2,52.54,,2024-09-03,Sur,Yes
+50259,1156,Muñeca Interactiva,Juguetes,1,39.6,0.0,2024-09-09,Norte,Yes
+50260,1110,Zapatillas Running,Ropa,3,96.56,0.05,2025-04-24,Norte,No
+50261,1100,Zapatillas Running,Ropa,2,106.31,0.15,2024-09-10,Oeste,Yes
+50262,1124,Smartphone X,Electrónica,2,666.3,0.0,2025-04-04,Norte,No
+50263,1153,Muñeca Interactiva,Juguetes,1,39.81,0.2,2024-08-16,Sur,No
+50264,1051,Smartphone X,Electrónica,2,714.3,0.0,2025-01-24,Norte,Yes
+50265,1283,Smartphone X,Electrónica,3,686.58,0.0,2024-06-24,Sur,Yes
+50266,1221,Zapatillas Running,Ropa,1,99.95,0.05,2025-01-01,Oeste,Yes
+50267,1332,Smartphone X,Electrónica,5,736.93,0.0,2024-04-14,Sur,Yes
+50268,1283,Auriculares Pro,Electrónica,4,131.96,0.0,2025-04-08,Oeste,Yes
+50269,1060,Aspiradora Ciclónica,Hogar,1,156.15,0.0,2024-03-16,Norte,Yes
+50270,1028,Cafetera Espresso,Hogar,3,242.77,0.0,2025-08-31,,Yes
+50271,1170,Camiseta Básica,Ropa,2,10.85,,2025-06-04,Oeste,Yes
+50272,1193,Juego Bloques 500pzs,Juguetes,8,42.46,0.2,2025-01-12,Sur,Yes
+50273,1097,Aspiradora Ciclónica,Hogar,1,152.08,0.05,2025-07-13,,Yes
+50274,1313,Portátil Air,Electrónica,1,1104.67,0.0,2025-05-18,Oeste,Yes
+50275,1233,Cafetera Espresso,Hogar,2,256.67,0.05,2024-05-18,Sur,Yes
+50276,1300,Aspiradora Ciclónica,Hogar,1,172.32,0.2,2025-04-13,Este,Yes
+50277,1044,Juego Bloques 500pzs,Juguetes,3,42.14,0.1,2024-09-24,Oeste,Yes
+50278,1327,Auriculares Pro,Electrónica,2,131.56,,2025-06-13,Norte,Yes
+50279,1083,Portátil Air,Electrónica,1,1112.21,0.0,2025-06-18,Sur,Yes
+50280,1180,Camiseta Básica,Ropa,2,11.74,0.3,2025-08-07,,No
+50281,1176,Chaqueta Invierno,Ropa,5,75.18,0.2,2024-11-03,Sur,Yes
+50282,1329,Coche Teledirigido,Juguetes,4,61.49,0.0,2024-06-15,Norte,Yes
+50283,1111,Cafetera Espresso,Hogar,2,237.17,0.15,2024-05-08,Este,Yes
+50284,1097,Sartén Antiadherente,Hogar,1,34.27,0.0,2024-05-30,Norte,Yes
+50285,1136,Sartén Antiadherente,Hogar,1,31.45,0.0,2025-08-27,Este,Yes
+50286,1145,Coche Teledirigido,Juguetes,5,56.32,0.15,2025-01-16,Norte,Yes
+50287,1073,Zapatillas Running,Ropa,3,86.67,0.05,2024-09-10,,Yes
+50288,1071,Portátil Air,Electrónica,2,1220.25,,2024-11-02,Sur,Yes
+50289,1093,Auriculares Pro,Electrónica,5,137.08,0.3,2024-06-03,Este,Yes
+50290,1187,Camiseta Básica,Ropa,1,12.23,,2025-01-08,Sur,Yes
+50291,1138,Aspiradora Ciclónica,Hogar,3,183.92,0.0,2024-10-20,Sur,Yes
+50292,1157,Zapatillas Running,Ropa,1,104.51,0.05,2025-05-13,Oeste,Yes
+50293,1288,Zapatillas Running,Ropa,1,92.95,0.15,2024-03-12,Este,Yes
+50294,1097,Zapatillas Running,Ropa,2,92.89,0.05,2025-07-25,Norte,Yes
+50295,1364,Muñeca Interactiva,Juguetes,2,40.28,0.5,2024-04-03,Oeste,Yes
+50296,1301,Muñeca Interactiva,Juguetes,6,36.71,0.1,2024-10-16,Sur,Yes
+50297,1070,Auriculares Pro,Electrónica,1,139.53,0.0,2024-09-04,Norte,Yes
+50298,1126,Auriculares Pro,Electrónica,4,132.27,0.0,2025-03-30,Sur,Yes
+50299,1074,Portátil Air,Electrónica,3,1220.52,0.15,2025-02-25,Norte,Yes
+50300,1110,Coche Teledirigido,Juguetes,3,61.84,0.5,2024-06-17,Norte,No
+50301,1147,Zapatillas Running,Ropa,6,106.46,0.0,2024-11-25,Este,Yes
+50302,1053,Coche Teledirigido,Juguetes,2,59.71,0.0,2024-12-19,Norte,Yes
+50303,1006,Aspiradora Ciclónica,Hogar,2,157.74,0.15,2024-11-10,Oeste,Yes
+50304,1176,Sartén Antiadherente,Hogar,1,35.38,0.0,2024-03-12,Oeste,Yes
+50305,1281,Camiseta Básica,Ropa,1,12.81,,2024-06-06,Este,Yes
+50306,1122,Chaqueta Invierno,Ropa,5,77.22,0.2,2024-12-02,Este,Yes
+50307,1345,Auriculares Pro,Electrónica,2,129.05,0.15,2024-07-21,Este,Yes
+50308,1148,Sartén Antiadherente,Hogar,1,32.44,0.2,2024-12-25,Oeste,Yes
+50309,1361,Camiseta Básica,Ropa,1,12.3,0.1,2024-05-29,Sur,Yes
+50310,1095,Camiseta Básica,Ropa,2,10.86,,2025-04-08,Norte,Yes
+50311,1216,Smartphone X,Electrónica,3,623.53,0.3,2024-06-12,Sur,Yes
+50312,1306,Juego Bloques 500pzs,Juguetes,1,42.2,0.0,2025-02-20,Este,Yes
+50313,1024,Muñeca Interactiva,Juguetes,4,36.37,0.0,2025-06-03,Norte,Yes
+50314,1373,Zapatillas Running,Ropa,3,90.72,0.2,2024-09-13,Este,Yes
+50315,1146,Sartén Antiadherente,Hogar,4,33.42,0.1,2024-05-16,Norte,Yes
+50316,1200,Muñeca Interactiva,Juguetes,1,38.54,0.2,2024-03-04,Oeste,Yes
+50317,1252,Sartén Antiadherente,Hogar,3,32.44,0.0,2024-09-14,Norte,Yes
+50318,1258,Aspiradora Ciclónica,Hogar,1,145.37,0.4,2024-05-03,Norte,Yes
+50319,1010,Zapatillas Running,Ropa,2,91.93,0.05,2025-06-28,,Yes
+50320,1347,Sartén Antiadherente,Hogar,3,33.32,0.1,2025-08-17,Norte,Yes
+50321,1250,Sartén Antiadherente,Hogar,3,33.33,0.3,2025-08-21,Norte,Yes
+50322,1400,Cafetera Espresso,Hogar,1,236.37,0.0,2025-07-20,,Yes
+50323,1189,Aspiradora Ciclónica,Hogar,5,160.8,0.1,2025-01-17,Norte,Yes
+50324,1246,Sartén Antiadherente,Hogar,1,36.93,0.1,2024-08-26,Norte,Yes
+50325,1177,Smartphone X,Electrónica,2,698.14,0.15,2024-11-01,Sur,Yes
+50326,1356,Coche Teledirigido,Juguetes,8,56.14,0.2,2024-07-21,Sur,No
+50327,1333,Coche Teledirigido,Juguetes,2,58.28,0.1,2025-06-05,Sur,Yes
+50328,1364,Portátil Air,Electrónica,4,1206.74,0.0,2024-10-26,Sur,Yes
+50329,1202,Camiseta Básica,Ropa,2,11.87,,2024-09-28,Norte,Yes
+50330,1317,Muñeca Interactiva,Juguetes,4,38.91,0.4,2025-03-14,Norte,Yes
+50331,1144,Camiseta Básica,Ropa,3,10.79,0.4,2024-09-22,Norte,Yes
+50332,1185,Juego Bloques 500pzs,Juguetes,3,41.97,0.4,2024-09-12,Este,Yes
+50333,1305,Juego Bloques 500pzs,Juguetes,1,44.53,0.0,2024-07-03,Oeste,Yes
+50334,1033,Coche Teledirigido,Juguetes,3,58.32,0.0,2024-04-06,Oeste,Yes
+50335,1285,Smartphone X,Electrónica,1,671.3,0.15,2024-03-21,Sur,Yes
+50336,1007,Zapatillas Running,Ropa,8,93.82,0.15,2024-10-08,Este,Yes
+50337,1233,Sartén Antiadherente,Hogar,1,32.14,0.0,2025-08-29,Sur,Yes
+50338,1191,Coche Teledirigido,Juguetes,1,62.67,0.05,2024-07-22,Oeste,Yes
+50339,1188,Portátil Air,Electrónica,5,1190.67,0.0,2025-02-15,Oeste,Yes
+50340,1198,Camiseta Básica,Ropa,1,12.34,0.05,2024-08-26,,Yes
+50341,1197,Portátil Air,Electrónica,2,1153.54,0.0,2024-08-14,Oeste,Yes
+50342,1163,Juego Bloques 500pzs,Juguetes,3,46.8,0.0,2024-05-29,Sur,Yes
+50343,1181,Muñeca Interactiva,Juguetes,1,40.03,0.0,2025-01-04,Oeste,Yes
+50344,1228,Auriculares Pro,Electrónica,1,136.82,0.3,2025-02-25,Oeste,No
+50345,1306,Portátil Air,Electrónica,2,1258.88,0.1,2024-09-09,Sur,Yes
+50346,1221,Camiseta Básica,Ropa,1,12.49,0.3,2024-12-15,Oeste,Yes
+50347,1258,Coche Teledirigido,Juguetes,1,58.59,0.05,2024-11-17,Norte,Yes
+50348,1335,Zapatillas Running,Ropa,1,96.63,0.0,2024-07-27,Oeste,Yes
+50349,1396,Camiseta Básica,Ropa,2,12.89,0.0,2025-03-15,Oeste,Yes
+50350,1044,Camiseta Básica,Ropa,1,11.45,0.05,2024-12-30,Norte,Yes
+50351,1286,Aspiradora Ciclónica,Hogar,1,152.01,0.0,2024-04-06,Este,No
+50352,1091,Chaqueta Invierno,Ropa,3,80.0,0.1,2024-11-26,Norte,Yes
+50353,1079,Auriculares Pro,Electrónica,3,132.75,0.15,2024-09-30,Oeste,Yes
+50354,1318,Juego Bloques 500pzs,Juguetes,1,42.4,0.2,2025-05-11,Oeste,Yes
+50355,1028,Zapatillas Running,Ropa,1,94.5,0.0,2024-08-16,Este,Yes
+50356,1340,Camiseta Básica,Ropa,5,11.92,0.05,2025-08-07,Oeste,No
+50357,1309,Cafetera Espresso,Hogar,2,210.39,0.0,2025-02-01,Norte,Yes
+50358,1398,Cafetera Espresso,Hogar,2,245.17,0.0,2024-05-11,,Yes
+50359,1268,Auriculares Pro,Electrónica,2,127.58,0.1,2024-10-08,Sur,Yes
+50360,1350,Smartphone X,Electrónica,1,691.16,0.05,2025-06-29,Norte,Yes
+50361,1048,Smartphone X,Electrónica,4,768.28,0.1,2024-07-18,Sur,Yes
+50362,1356,Juego Bloques 500pzs,Juguetes,6,41.17,0.0,2025-03-22,Norte,Yes
+50363,1065,Aspiradora Ciclónica,Hogar,6,149.82,0.5,2025-05-05,Sur,Yes
+50364,1126,Juego Bloques 500pzs,Juguetes,1,36.77,0.5,2025-03-16,Sur,Yes
+50365,1052,Aspiradora Ciclónica,Hogar,1,153.65,0.05,2024-04-19,Oeste,Yes
+50366,1161,Chaqueta Invierno,Ropa,1,76.81,0.2,2024-09-22,Norte,Yes
+50367,1300,Aspiradora Ciclónica,Hogar,1,153.32,0.0,2024-09-08,Oeste,Yes
+50368,1108,Cafetera Espresso,Hogar,1,268.31,0.1,2024-09-05,Sur,No
+50369,1329,Chaqueta Invierno,Ropa,3,83.76,,2025-06-26,Sur,Yes
+50370,1243,Coche Teledirigido,Juguetes,1,59.32,0.15,2024-03-04,Sur,Yes
+50371,1252,Coche Teledirigido,Juguetes,6,57.47,0.15,2024-12-21,Sur,Yes
+50372,1376,Juego Bloques 500pzs,Juguetes,1,48.23,0.05,2025-08-22,Norte,Yes
+50373,1173,Muñeca Interactiva,Juguetes,1,38.95,0.15,2025-06-24,Sur,Yes
+50374,1138,Chaqueta Invierno,Ropa,5,74.47,0.1,2025-01-27,Norte,Yes
+50375,1398,Auriculares Pro,Electrónica,3,113.5,0.0,2025-08-30,Sur,Yes
+50376,1223,Zapatillas Running,Ropa,2,92.07,0.0,2024-10-07,Este,Yes
+50377,1246,Cafetera Espresso,Hogar,2,262.15,0.15,2025-01-30,Sur,Yes
+50378,1119,Juego Bloques 500pzs,Juguetes,1,52.17,0.05,2024-12-24,Oeste,Yes
+50379,1087,Chaqueta Invierno,Ropa,1,79.34,0.05,2024-03-26,Norte,Yes
+50380,1068,Camiseta Básica,Ropa,2,11.36,0.3,2024-03-23,Oeste,No
+50381,1090,Zapatillas Running,Ropa,2,87.12,0.1,2025-07-06,Oeste,Yes
+50382,1079,Juego Bloques 500pzs,Juguetes,3,46.74,0.0,2024-06-04,Oeste,Yes
+50383,1299,Smartphone X,Electrónica,1,612.66,,2024-09-11,Oeste,Yes
+50384,1024,Camiseta Básica,Ropa,3,12.46,0.05,2025-02-06,Norte,Yes
+50385,1252,Portátil Air,Electrónica,4,1267.63,0.15,2025-01-10,Este,Yes
+50386,1380,Juego Bloques 500pzs,Juguetes,1,46.37,0.05,2024-12-08,Norte,Yes
+50387,1307,Zapatillas Running,Ropa,1,93.54,0.05,2025-08-20,Oeste,Yes
+50388,1162,Auriculares Pro,Electrónica,2,134.1,0.1,2025-05-07,Este,Yes
+50389,1024,Camiseta Básica,Ropa,4,12.14,0.1,2025-07-31,Norte,Yes
+50390,1334,Smartphone X,Electrónica,3,660.93,0.2,2025-02-25,Oeste,Yes
+50391,1002,Zapatillas Running,Ropa,3,107.31,0.0,2025-08-20,Norte,Yes
+50392,1273,Muñeca Interactiva,Juguetes,2,38.04,,2025-01-25,Este,Yes
+50393,1269,Sartén Antiadherente,Hogar,1,33.74,0.05,2024-12-23,Este,Yes
+50394,1077,Coche Teledirigido,Juguetes,2,49.01,0.0,2025-05-22,Norte,Yes
+50395,1296,Cafetera Espresso,Hogar,1,271.25,0.1,2025-06-20,Este,Yes
+50396,1071,Coche Teledirigido,Juguetes,3,65.07,0.1,2024-04-07,Oeste,Yes
+50397,1091,Camiseta Básica,Ropa,1,12.03,0.05,2025-07-13,Norte,Yes
+50398,1325,Muñeca Interactiva,Juguetes,1,40.53,0.15,2025-03-15,Sur,Yes
+50399,1392,Portátil Air,Electrónica,2,1245.88,0.0,2025-07-06,Norte,Yes
+50400,1106,Zapatillas Running,Ropa,2,90.73,0.0,2025-03-28,Este,Yes
+50401,1369,Cafetera Espresso,Hogar,3,258.54,0.0,2025-07-22,Norte,No
+50402,1366,Camiseta Básica,Ropa,2,11.32,0.0,2024-07-30,Oeste,Yes
+50403,1308,Camiseta Básica,Ropa,6,11.49,0.1,2024-06-12,Oeste,Yes
+50404,1057,Auriculares Pro,Electrónica,4,139.18,0.2,2024-06-16,Norte,Yes
+50405,1120,Smartphone X,Electrónica,5,746.69,,2024-07-17,Sur,Yes
+50406,1272,Sartén Antiadherente,Hogar,3,30.42,0.0,2024-06-26,Este,Yes
+50407,1400,Muñeca Interactiva,Juguetes,3,37.0,,2024-10-29,Este,No
+50408,1326,Portátil Air,Electrónica,3,1144.82,0.0,2024-06-17,Sur,Yes
+50409,1169,Zapatillas Running,Ropa,2,99.87,0.1,2024-05-26,Norte,Yes
+50410,1095,Muñeca Interactiva,Juguetes,1,36.27,0.0,2024-12-13,Norte,Yes
+50411,1385,Juego Bloques 500pzs,Juguetes,2,46.12,0.05,2025-05-10,Oeste,Yes
+50412,1111,Smartphone X,Electrónica,1,735.54,0.15,2024-05-14,Sur,Yes
+50413,1137,Sartén Antiadherente,Hogar,1,31.8,0.1,2024-12-06,Oeste,No
+50414,1386,Auriculares Pro,Electrónica,5,138.12,0.0,2025-02-25,Sur,Yes
+50415,1225,Portátil Air,Electrónica,1,1173.46,0.0,2025-03-23,Oeste,Yes
+50416,1106,Portátil Air,Electrónica,2,1181.05,0.1,2024-04-27,Norte,Yes
+50417,1003,Aspiradora Ciclónica,Hogar,3,148.12,0.05,2025-04-07,Norte,Yes
+50418,1172,Portátil Air,Electrónica,1,1284.37,0.0,2024-03-15,Oeste,Yes
+50419,1395,Camiseta Básica,Ropa,5,11.36,0.2,2024-07-09,Oeste,Yes
+50420,1174,Portátil Air,Electrónica,1,1228.36,0.05,2024-08-23,Sur,Yes
+50421,1280,Chaqueta Invierno,Ropa,5,78.61,0.05,2025-06-12,Sur,Yes
+50422,1102,Aspiradora Ciclónica,Hogar,4,147.28,0.0,2024-06-14,Sur,Yes
+50423,1311,Chaqueta Invierno,Ropa,1,75.63,,2025-05-04,Sur,Yes
+50424,1311,Camiseta Básica,Ropa,1,13.16,0.0,2025-08-25,Norte,Yes
+50425,1244,Sartén Antiadherente,Hogar,1,32.45,0.0,2025-08-10,Oeste,Yes
+50426,1309,Aspiradora Ciclónica,Hogar,2,147.77,0.05,2024-08-14,Norte,Yes
+50427,1232,Smartphone X,Electrónica,1,713.94,0.05,2024-04-22,Este,Yes
+50428,1152,Coche Teledirigido,Juguetes,8,58.4,0.2,2024-06-30,Norte,Yes
+50429,1296,Coche Teledirigido,Juguetes,1,73.27,0.3,2025-04-27,Norte,Yes
+50430,1335,Aspiradora Ciclónica,Hogar,4,162.17,,2024-06-17,Este,Yes
+50431,1337,Sartén Antiadherente,Hogar,1,31.15,0.0,2025-02-18,Sur,Yes
+50432,1086,Cafetera Espresso,Hogar,8,273.75,0.15,2024-09-22,Este,Yes
+50433,1271,Zapatillas Running,Ropa,1,82.76,0.5,2025-04-26,Norte,Yes
+50434,1002,Chaqueta Invierno,Ropa,2,79.52,0.2,2025-01-27,Oeste,Yes
+50435,1229,Chaqueta Invierno,Ropa,2,90.03,0.0,2025-01-16,Este,Yes
+50436,1229,Auriculares Pro,Electrónica,1,127.95,0.0,2025-05-04,Oeste,Yes
+50437,1146,Coche Teledirigido,Juguetes,4,51.84,0.0,2025-08-07,Norte,Yes
+50438,1398,Camiseta Básica,Ropa,1,11.67,0.15,2024-09-17,,Yes
+50439,1354,Camiseta Básica,Ropa,2,13.22,0.05,2024-12-16,Sur,Yes
+50440,1016,Muñeca Interactiva,Juguetes,2,40.03,0.05,2025-02-07,Este,Yes
+50441,1084,Sartén Antiadherente,Hogar,3,30.12,0.05,2025-05-26,Sur,Yes
+50442,1084,Aspiradora Ciclónica,Hogar,1,151.37,0.0,2024-11-20,Norte,Yes
+50443,1360,Portátil Air,Electrónica,1,1152.02,0.05,2024-09-22,Sur,Yes
+50444,1208,Camiseta Básica,Ropa,1,12.3,0.0,2025-06-08,Norte,Yes
+50445,1292,Cafetera Espresso,Hogar,1,272.32,0.1,2025-08-06,Sur,Yes
+50446,1324,Zapatillas Running,Ropa,1,102.0,0.1,2025-01-07,Norte,Yes
+50447,1308,Auriculares Pro,Electrónica,6,133.12,0.1,2024-04-26,Norte,Yes
+50448,1036,Coche Teledirigido,Juguetes,2,53.5,0.0,2024-08-07,Este,Yes
+50449,1057,Chaqueta Invierno,Ropa,3,71.66,0.15,2024-11-10,Sur,Yes
+50450,1159,Cafetera Espresso,Hogar,2,258.29,0.1,2025-03-22,Sur,Yes
+50451,1136,Chaqueta Invierno,Ropa,1,71.56,0.0,2025-03-03,Este,Yes
+50452,1299,Sartén Antiadherente,Hogar,2,31.49,0.0,2025-05-25,Oeste,Yes
+50453,1063,Juego Bloques 500pzs,Juguetes,1,45.96,0.1,2024-03-17,Sur,Yes
+50454,1149,Coche Teledirigido,Juguetes,1,54.3,0.0,2024-11-11,Este,Yes
+50455,1095,Portátil Air,Electrónica,2,1113.03,0.0,2025-03-20,Oeste,Yes
+50456,1076,Cafetera Espresso,Hogar,2,247.36,0.0,2025-08-24,Este,Yes
+50457,1070,Coche Teledirigido,Juguetes,8,61.08,0.0,2024-05-18,Oeste,Yes
+50458,1079,Aspiradora Ciclónica,Hogar,1,170.81,0.05,2025-06-26,Oeste,Yes
+50459,1226,Auriculares Pro,Electrónica,2,134.48,0.05,2024-03-05,Norte,Yes
+50460,1165,Portátil Air,Electrónica,1,1205.18,0.0,2024-06-17,Sur,Yes
+50461,1175,Portátil Air,Electrónica,1,1136.37,,2025-06-09,Este,No
+50462,1192,Auriculares Pro,Electrónica,3,119.33,0.0,2025-05-06,Oeste,Yes
+50463,1297,Juego Bloques 500pzs,Juguetes,1,43.39,0.0,2025-08-17,Sur,Yes
+50464,1345,Muñeca Interactiva,Juguetes,2,40.12,0.0,2025-01-24,Norte,Yes
+50465,1211,Sartén Antiadherente,Hogar,2,32.75,0.15,2025-02-02,Este,Yes
+50466,1257,Aspiradora Ciclónica,Hogar,1,135.63,0.4,2024-12-19,Norte,Yes
+50467,1296,Juego Bloques 500pzs,Juguetes,6,42.53,0.05,2024-12-06,Este,Yes
+50468,1277,Chaqueta Invierno,Ropa,2,85.66,0.0,2024-12-08,Sur,Yes
+50469,1054,Zapatillas Running,Ropa,4,95.53,0.0,2024-08-08,Este,Yes
+50470,1394,Aspiradora Ciclónica,Hogar,2,143.23,0.0,2025-06-12,Oeste,Yes
+50471,1066,Camiseta Básica,Ropa,6,13.98,0.2,2024-09-12,,Yes
+50472,1165,Smartphone X,Electrónica,1,697.58,0.0,2025-01-30,Este,Yes
+50473,1262,Sartén Antiadherente,Hogar,2,32.86,0.4,2025-03-03,Este,Yes
+50474,1162,Juego Bloques 500pzs,Juguetes,4,46.26,0.05,2024-12-21,Oeste,Yes
+50475,1098,Smartphone X,Electrónica,1,681.01,0.05,2025-01-30,Oeste,Yes
+50476,1370,Portátil Air,Electrónica,2,1137.93,0.2,2024-03-27,Norte,Yes
+50477,1029,Camiseta Básica,Ropa,8,13.78,0.0,2024-08-21,Este,Yes
+50478,1099,Juego Bloques 500pzs,Juguetes,2,48.16,0.15,2024-11-02,Norte,Yes
+50479,1398,Sartén Antiadherente,Hogar,3,33.84,0.0,2024-10-03,Oeste,Yes
+50480,1292,Sartén Antiadherente,Hogar,3,33.29,0.2,2025-07-12,Este,Yes
+50481,1035,Aspiradora Ciclónica,Hogar,4,147.83,0.05,2025-07-06,Sur,No
+50482,1302,Camiseta Básica,Ropa,5,13.07,0.0,2025-03-26,Norte,Yes
+50483,1388,Cafetera Espresso,Hogar,2,234.3,0.2,2024-09-10,Sur,Yes
+50484,1040,Smartphone X,Electrónica,1,712.86,0.0,2024-03-28,Este,Yes
+50485,1166,Auriculares Pro,Electrónica,1,114.2,0.0,2025-04-19,Norte,Yes
+50486,1188,Juego Bloques 500pzs,Juguetes,3,38.57,0.15,2025-06-29,Norte,Yes
+50487,1053,Aspiradora Ciclónica,Hogar,4,162.54,0.05,2024-11-24,Oeste,No
+50488,1081,Portátil Air,Electrónica,2,1131.09,0.2,2025-05-28,Oeste,Yes
+50489,1070,Zapatillas Running,Ropa,1,81.77,0.1,2025-07-24,Norte,Yes
+50490,1075,Smartphone X,Electrónica,1,725.45,0.05,2024-12-26,Sur,Yes
+50491,1162,Cafetera Espresso,Hogar,2,285.95,0.0,2024-06-24,Oeste,Yes
+50492,1186,Juego Bloques 500pzs,Juguetes,4,49.38,0.0,2024-03-13,Este,Yes
+50493,1096,Camiseta Básica,Ropa,1,11.78,0.4,2025-04-20,Este,No
+50494,1116,Chaqueta Invierno,Ropa,3,79.05,0.0,2025-01-03,Sur,Yes
+50495,1077,Portátil Air,Electrónica,4,1273.51,0.05,2024-05-24,Sur,Yes
+50496,1319,Chaqueta Invierno,Ropa,6,85.21,0.0,2024-03-30,Norte,Yes
+50497,1085,Camiseta Básica,Ropa,1,11.71,0.0,2025-08-15,Este,Yes
+50498,1364,Portátil Air,Electrónica,6,1201.87,0.05,2024-08-23,Norte,No
+50499,1216,Zapatillas Running,Ropa,3,97.0,0.15,2024-08-27,Norte,Yes
+50500,1322,Coche Teledirigido,Juguetes,4,61.29,0.15,2025-02-09,Este,Yes
+50501,1255,Juego Bloques 500pzs,Juguetes,1,44.58,0.2,2024-09-17,Oeste,No
+50502,1107,Camiseta Básica,Ropa,2,11.9,0.0,2025-07-15,Este,Yes
+50503,1241,Muñeca Interactiva,Juguetes,3,42.77,0.05,2025-03-09,Sur,Yes
+50504,1110,Portátil Air,Electrónica,1,1300.52,0.0,2024-09-13,Sur,Yes
+50505,1048,Coche Teledirigido,Juguetes,2,60.97,0.1,2024-07-25,Sur,Yes
+50506,1102,Camiseta Básica,Ropa,2,13.44,0.0,2025-06-16,Sur,Yes
+50507,1111,Sartén Antiadherente,Hogar,2,31.13,0.05,2025-01-19,Este,Yes
+50508,1055,Portátil Air,Electrónica,1,1335.22,0.0,2025-07-18,Sur,Yes
+50509,1010,Juego Bloques 500pzs,Juguetes,2,46.71,,2024-09-06,Este,Yes
+50510,1378,Camiseta Básica,Ropa,1,14.75,0.15,2024-03-12,Oeste,Yes
+50511,1206,Coche Teledirigido,Juguetes,6,54.08,0.2,2025-07-07,Oeste,Yes
+50512,1161,Smartphone X,Electrónica,7,665.27,0.0,2024-07-10,Norte,Yes
+50513,1372,Sartén Antiadherente,Hogar,1,32.94,0.5,2025-06-08,Sur,Yes
+50514,1090,Auriculares Pro,Electrónica,1,132.59,0.0,2025-03-25,Norte,Yes
+50515,1162,Coche Teledirigido,Juguetes,1,67.05,0.0,2024-07-06,Sur,Yes
+50516,1339,Zapatillas Running,Ropa,2,90.56,0.0,2025-04-20,Sur,Yes
+50517,1253,Cafetera Espresso,Hogar,5,264.77,0.0,2024-04-14,Norte,Yes
+50518,1160,Coche Teledirigido,Juguetes,2,63.8,0.05,2024-10-02,Oeste,Yes
+50519,1103,Sartén Antiadherente,Hogar,1,33.58,,2024-09-12,Sur,Yes
+50520,1015,Smartphone X,Electrónica,1,651.98,0.0,2025-02-24,Oeste,Yes
+50521,1035,Portátil Air,Electrónica,1,1317.15,0.1,2024-12-19,Norte,Yes
+50522,1065,Portátil Air,Electrónica,4,1302.18,0.2,2025-01-31,Norte,Yes
+50523,1315,Coche Teledirigido,Juguetes,3,61.48,0.1,2024-11-17,Sur,Yes
+50524,1256,Coche Teledirigido,Juguetes,2,59.84,0.05,2025-04-11,Norte,Yes
+50525,1174,Zapatillas Running,Ropa,1,96.5,0.0,2024-05-27,Norte,Yes
+50526,1314,Coche Teledirigido,Juguetes,6,58.67,,2025-03-30,Oeste,Yes
+50527,1065,Portátil Air,Electrónica,1,1252.78,0.0,2024-03-28,Norte,Yes
+50528,1085,Cafetera Espresso,Hogar,4,249.54,0.0,2024-04-17,Norte,Yes
+50529,1158,Chaqueta Invierno,Ropa,5,74.31,0.0,2025-04-02,Este,Yes
+50530,1367,Portátil Air,Electrónica,2,1110.99,0.1,2024-05-26,Sur,Yes
+50531,1246,Camiseta Básica,Ropa,5,11.37,0.0,2025-04-27,Este,Yes
+50532,1341,Zapatillas Running,Ropa,1,96.48,0.1,2024-05-12,Sur,Yes
+50533,1100,Chaqueta Invierno,Ropa,3,78.85,,2024-05-20,Oeste,Yes
+50534,1340,Portátil Air,Electrónica,1,1217.07,0.05,2025-07-25,Norte,Yes
+50535,1029,Chaqueta Invierno,Ropa,2,81.77,0.05,2024-06-06,Sur,Yes
+50536,1092,Auriculares Pro,Electrónica,1,123.34,0.0,2025-07-15,Este,Yes
+50537,1210,Muñeca Interactiva,Juguetes,1,43.0,0.0,2024-09-08,Oeste,Yes
+50538,1021,Chaqueta Invierno,Ropa,1,77.52,0.1,2025-05-12,Sur,Yes
+50539,1344,Auriculares Pro,Electrónica,1,125.09,0.05,2025-07-29,Este,Yes
+50540,1347,Sartén Antiadherente,Hogar,2,33.08,0.0,2024-05-04,Norte,Yes
+50541,1217,Coche Teledirigido,Juguetes,2,51.42,0.1,2024-08-29,Norte,Yes
+50542,1123,Chaqueta Invierno,Ropa,1,74.63,0.0,2025-01-10,Norte,Yes
+50543,1040,Coche Teledirigido,Juguetes,8,63.05,,2025-06-19,Este,Yes
+50544,1248,Aspiradora Ciclónica,Hogar,6,139.66,0.0,2024-06-11,Sur,Yes
+50545,1216,Cafetera Espresso,Hogar,1,268.48,0.05,2024-06-11,Este,Yes
+50546,1304,Camiseta Básica,Ropa,2,13.27,0.0,2024-09-19,Norte,Yes
+50547,1242,Smartphone X,Electrónica,3,680.92,0.1,2024-06-21,Oeste,Yes
+50548,1052,Chaqueta Invierno,Ropa,3,80.61,0.0,2024-07-25,Oeste,Yes
+50549,1049,Muñeca Interactiva,Juguetes,2,42.06,0.15,2024-05-11,Norte,Yes
+50550,1313,Juego Bloques 500pzs,Juguetes,3,43.53,0.0,2025-05-30,Norte,Yes
+50551,1064,Juego Bloques 500pzs,Juguetes,1,47.73,0.05,2025-05-12,,Yes
+50552,1376,Coche Teledirigido,Juguetes,1,56.23,0.15,2024-05-19,Oeste,Yes
+50553,1043,Chaqueta Invierno,Ropa,3,76.36,0.0,2024-12-20,Norte,Yes
+50554,1292,Camiseta Básica,Ropa,3,11.33,0.0,2025-02-18,Este,Yes
+50555,1391,Muñeca Interactiva,Juguetes,4,39.94,0.05,2025-02-08,Sur,Yes
+50556,1177,Sartén Antiadherente,Hogar,1,34.59,0.5,2025-08-23,Oeste,Yes
+50557,1023,Camiseta Básica,Ropa,1,11.85,0.4,2025-02-16,Sur,Yes
+50558,1351,Camiseta Básica,Ropa,1,10.93,0.0,2025-03-13,Sur,Yes
+50559,1075,Coche Teledirigido,Juguetes,1,54.53,0.15,2024-03-19,Oeste,Yes
+50560,1211,Smartphone X,Electrónica,1,718.31,0.0,2024-04-13,Norte,Yes
+50561,1394,Smartphone X,Electrónica,2,789.23,0.0,2025-02-03,Oeste,Yes
+50562,1298,Cafetera Espresso,Hogar,2,255.86,0.1,2025-07-12,Norte,Yes
+50563,1019,Smartphone X,Electrónica,3,680.07,0.05,2024-10-06,Sur,Yes
+50564,1329,Portátil Air,Electrónica,2,1263.31,0.05,2025-02-17,Oeste,Yes
+50565,1065,Muñeca Interactiva,Juguetes,1,38.35,0.15,2024-06-24,Este,No
+50566,1300,Zapatillas Running,Ropa,3,92.48,0.0,2024-11-06,Este,No
+50567,1249,Cafetera Espresso,Hogar,1,232.29,0.1,2025-04-17,Norte,Yes
+50568,1116,Zapatillas Running,Ropa,5,104.37,0.0,2025-02-26,Sur,Yes
+50569,1170,Auriculares Pro,Electrónica,1,106.07,0.0,2024-05-02,Sur,Yes
+50570,1048,Portátil Air,Electrónica,2,1265.96,0.0,2025-06-26,Este,Yes
+50571,1395,Juego Bloques 500pzs,Juguetes,5,43.54,0.4,2025-07-22,Sur,Yes
+50572,1096,Auriculares Pro,Electrónica,2,125.29,0.05,2024-11-17,Sur,Yes
+50573,1124,Aspiradora Ciclónica,Hogar,3,177.84,0.0,2024-09-04,Sur,Yes
+50574,1202,Chaqueta Invierno,Ropa,3,75.05,0.1,2024-12-17,Norte,No
+50575,1269,Chaqueta Invierno,Ropa,1,75.24,0.4,2025-05-14,Sur,Yes
+50576,1203,Muñeca Interactiva,Juguetes,3,38.64,0.3,2024-11-04,Norte,Yes
+50577,1203,Aspiradora Ciclónica,Hogar,5,163.61,0.05,2024-03-17,Oeste,Yes
+50578,1234,Aspiradora Ciclónica,Hogar,7,154.08,0.0,2024-04-09,Este,Yes
+50579,1344,Chaqueta Invierno,Ropa,2,70.3,0.05,2025-05-20,,Yes
+50580,1159,Chaqueta Invierno,Ropa,1,74.21,0.15,2025-05-07,Este,Yes
+50581,1333,Cafetera Espresso,Hogar,4,271.33,0.2,2025-04-28,Oeste,Yes
+50582,1315,Smartphone X,Electrónica,2,702.66,0.15,2024-05-09,Norte,No
+50583,1385,Portátil Air,Electrónica,1,1236.86,0.05,2024-06-02,Norte,Yes
+50584,1366,Aspiradora Ciclónica,Hogar,1,156.09,0.0,2024-10-03,Norte,Yes
+50585,1320,Aspiradora Ciclónica,Hogar,1,151.66,0.05,2024-07-05,Norte,Yes
+50586,1099,Auriculares Pro,Electrónica,2,144.15,0.0,2024-09-29,Oeste,Yes
+50587,1310,Juego Bloques 500pzs,Juguetes,1,44.41,0.0,2025-01-01,Oeste,Yes
+50588,1295,Sartén Antiadherente,Hogar,1,31.01,0.05,2024-08-01,Norte,Yes
+50589,1116,Portátil Air,Electrónica,1,1291.0,0.1,2024-05-07,Este,Yes
+50590,1272,Juego Bloques 500pzs,Juguetes,6,42.72,0.2,2024-10-07,Norte,Yes
+50591,1102,Muñeca Interactiva,Juguetes,1,37.38,0.15,2025-04-01,Este,Yes
+50592,1210,Zapatillas Running,Ropa,1,95.07,0.2,2025-02-03,,Yes
+50593,1319,Camiseta Básica,Ropa,2,12.0,0.15,2024-08-24,Sur,No
+50594,1076,Camiseta Básica,Ropa,1,12.22,0.1,2024-08-18,Norte,Yes
+50595,1135,Aspiradora Ciclónica,Hogar,7,182.28,0.0,2025-01-15,Este,Yes
+50596,1319,Smartphone X,Electrónica,6,715.45,0.05,2024-06-03,Oeste,Yes
+50597,1182,Zapatillas Running,Ropa,2,79.19,0.0,2025-06-01,Norte,Yes
+50598,1385,Smartphone X,Electrónica,2,714.97,0.0,2025-06-21,Norte,Yes
+50599,1004,Smartphone X,Electrónica,2,700.85,0.0,2024-03-14,Norte,Yes
+50600,1289,Zapatillas Running,Ropa,1,95.29,0.15,2025-08-15,Este,Yes
+50601,1326,Cafetera Espresso,Hogar,1,253.29,0.1,2024-03-13,Este,Yes
+50602,1368,Coche Teledirigido,Juguetes,1,58.88,0.3,2024-11-07,Oeste,Yes
+50603,1063,Auriculares Pro,Electrónica,1,128.52,0.4,2025-03-02,Este,Yes
+50604,1394,Portátil Air,Electrónica,2,1250.45,0.2,2024-08-27,Oeste,Yes
+50605,1157,Zapatillas Running,Ropa,1,91.4,0.0,2024-06-20,Oeste,Yes
+50606,1141,Sartén Antiadherente,Hogar,1,29.88,,2024-03-27,Norte,Yes
+50607,1143,Muñeca Interactiva,Juguetes,2,47.25,0.2,2025-04-04,,Yes
+50608,1256,Cafetera Espresso,Hogar,2,236.52,0.2,2024-03-21,Sur,Yes
+50609,1264,Sartén Antiadherente,Hogar,1,32.22,,2024-11-21,Sur,Yes
+50610,1190,Smartphone X,Electrónica,1,625.82,0.0,2024-10-02,Oeste,Yes
+50611,1029,Smartphone X,Electrónica,1,704.7,0.3,2025-08-14,Este,No
+50612,1395,Auriculares Pro,Electrónica,1,120.57,0.0,2025-07-24,Oeste,Yes
+50613,1089,Aspiradora Ciclónica,Hogar,4,154.08,0.0,2025-05-23,Sur,Yes
+50614,1038,Camiseta Básica,Ropa,6,12.88,0.05,2025-04-06,Este,Yes
+50615,1239,Portátil Air,Electrónica,2,1238.62,0.0,2024-12-24,Sur,Yes
+50616,1165,Cafetera Espresso,Hogar,2,258.91,0.0,2024-09-08,Norte,Yes
+50617,1247,Juego Bloques 500pzs,Juguetes,3,39.42,0.5,2024-05-31,Norte,Yes
+50618,1351,Zapatillas Running,Ropa,3,107.22,0.2,2025-08-14,,No
+50619,1039,Coche Teledirigido,Juguetes,1,54.08,0.3,2024-09-28,Norte,Yes
+50620,1114,Cafetera Espresso,Hogar,1,275.64,0.0,2024-10-22,Oeste,Yes
+50621,1207,Cafetera Espresso,Hogar,2,266.81,0.0,2024-05-17,Norte,Yes
+50622,1316,Coche Teledirigido,Juguetes,2,61.38,0.0,2024-07-30,Norte,Yes
+50623,1241,Portátil Air,Electrónica,1,1127.24,0.05,2025-02-12,Oeste,Yes
+50624,1154,Juego Bloques 500pzs,Juguetes,1,45.48,0.0,2024-10-21,Norte,Yes
+50625,1245,Muñeca Interactiva,Juguetes,1,37.71,0.15,2025-01-16,Oeste,Yes
+50626,1392,Muñeca Interactiva,Juguetes,1,39.08,0.5,2024-06-25,Este,Yes
+50627,1193,Sartén Antiadherente,Hogar,2,31.44,0.05,2024-04-15,Norte,Yes
+50628,1354,Juego Bloques 500pzs,Juguetes,3,38.58,0.0,2025-06-30,Este,Yes
+50629,1312,Coche Teledirigido,Juguetes,2,63.63,0.0,2024-10-24,Este,Yes
+50630,1121,Coche Teledirigido,Juguetes,1,58.67,0.0,2024-09-15,Este,No
+50631,1100,Coche Teledirigido,Juguetes,1,57.0,0.0,2024-08-05,Oeste,Yes
+50632,1309,Juego Bloques 500pzs,Juguetes,4,43.23,0.05,2025-02-25,Este,Yes
+50633,1083,Chaqueta Invierno,Ropa,2,80.98,0.0,2025-01-04,Este,Yes
+50634,1135,Cafetera Espresso,Hogar,1,233.42,0.05,2024-09-30,Sur,Yes
+50635,1095,Chaqueta Invierno,Ropa,1,66.53,0.2,2025-07-25,Este,No
+50636,1243,Juego Bloques 500pzs,Juguetes,4,46.28,0.0,2025-07-09,Oeste,Yes
+50637,1118,Juego Bloques 500pzs,Juguetes,4,46.64,0.0,2024-06-17,Este,Yes
+50638,1264,Muñeca Interactiva,Juguetes,5,38.46,0.0,2025-02-16,Este,Yes
+50639,1374,Aspiradora Ciclónica,Hogar,3,146.22,0.0,2025-08-14,Sur,Yes
+50640,1332,Zapatillas Running,Ropa,2,95.59,0.05,2024-11-24,Este,Yes
+50641,1380,Auriculares Pro,Electrónica,2,115.78,0.15,2024-03-17,Oeste,Yes
+50642,1010,Aspiradora Ciclónica,Hogar,1,147.57,0.2,2024-05-12,Norte,Yes
+50643,1183,Sartén Antiadherente,Hogar,3,30.32,0.1,2025-03-02,Norte,Yes
+50644,1089,Sartén Antiadherente,Hogar,2,33.89,0.0,2025-07-09,Este,Yes
+50645,1368,Cafetera Espresso,Hogar,1,242.68,0.0,2024-05-10,Sur,Yes
+50646,1285,Coche Teledirigido,Juguetes,5,57.15,0.0,2024-12-26,Este,Yes
+50647,1129,Auriculares Pro,Electrónica,2,146.65,0.0,2024-11-28,Norte,Yes
+50648,1226,Zapatillas Running,Ropa,1,97.34,0.2,2024-08-04,Sur,Yes
+50649,1243,Cafetera Espresso,Hogar,1,254.91,0.05,2025-02-10,Este,Yes
+50650,1199,Juego Bloques 500pzs,Juguetes,5,43.84,,2025-06-25,Este,Yes
+50651,1190,Juego Bloques 500pzs,Juguetes,6,43.12,0.0,2024-07-10,Este,Yes
+50652,1023,Juego Bloques 500pzs,Juguetes,2,38.11,0.0,2024-03-30,Este,No
+50653,1181,Coche Teledirigido,Juguetes,7,63.0,0.3,2024-09-14,Este,Yes
+50654,1140,Muñeca Interactiva,Juguetes,5,40.22,0.0,2024-08-20,Oeste,Yes
+50655,1328,Aspiradora Ciclónica,Hogar,4,157.01,0.0,2025-04-04,,Yes
+50656,1347,Portátil Air,Electrónica,5,1187.48,0.0,2024-12-20,Este,Yes
+50657,1301,Sartén Antiadherente,Hogar,2,33.65,0.15,2024-03-10,Este,No
+50658,1013,Cafetera Espresso,Hogar,4,221.9,0.05,2024-09-03,Norte,Yes
+50659,1337,Auriculares Pro,Electrónica,2,123.67,,2025-04-08,Norte,Yes
+50660,1159,Juego Bloques 500pzs,Juguetes,3,41.42,0.0,2024-11-17,Este,Yes
+50661,1167,Sartén Antiadherente,Hogar,1,35.97,0.0,2025-01-04,Oeste,No
+50662,1379,Muñeca Interactiva,Juguetes,3,41.39,0.2,2024-07-24,Este,No
+50663,1347,Portátil Air,Electrónica,7,1014.13,0.0,2024-08-23,Norte,Yes
+50664,1021,Coche Teledirigido,Juguetes,1,52.75,0.0,2024-05-11,Este,Yes
+50665,1144,Zapatillas Running,Ropa,8,94.12,0.05,2024-04-14,Norte,Yes
+50666,1300,Sartén Antiadherente,Hogar,2,30.94,0.0,2024-03-21,Este,Yes
+50667,1216,Aspiradora Ciclónica,Hogar,1,144.26,0.0,2025-02-06,Oeste,Yes
+50668,1104,Sartén Antiadherente,Hogar,1,36.36,0.15,2024-05-26,Este,Yes
+50669,1210,Coche Teledirigido,Juguetes,4,60.29,0.05,2025-01-10,Este,Yes
+50670,1347,Portátil Air,Electrónica,2,1238.85,0.0,2025-08-06,Sur,Yes
+50671,1090,Cafetera Espresso,Hogar,1,236.94,0.0,2025-03-18,Sur,Yes
+50672,1299,Muñeca Interactiva,Juguetes,3,40.97,0.1,2025-01-10,Oeste,Yes
+50673,1294,Portátil Air,Electrónica,1,1167.07,0.0,2024-05-04,Este,Yes
+50674,1355,Camiseta Básica,Ropa,2,11.76,0.0,2024-11-24,Sur,Yes
+50675,1120,Zapatillas Running,Ropa,5,99.06,0.05,2025-07-03,Sur,Yes
+50676,1087,Cafetera Espresso,Hogar,3,220.61,0.05,2024-09-27,Norte,No
+50677,1220,Muñeca Interactiva,Juguetes,4,43.36,0.4,2025-05-28,Norte,Yes
+50678,1213,Juego Bloques 500pzs,Juguetes,2,45.57,0.0,2025-03-24,Norte,Yes
+50679,1164,Juego Bloques 500pzs,Juguetes,8,49.03,0.0,2024-07-25,Sur,Yes
+50680,1312,Zapatillas Running,Ropa,1,87.85,,2024-05-17,Oeste,Yes
+50681,1320,Aspiradora Ciclónica,Hogar,1,148.73,0.1,2024-03-10,Sur,Yes
+50682,1099,Portátil Air,Electrónica,1,1101.48,0.0,2024-07-30,,No
+50683,1319,Zapatillas Running,Ropa,2,96.66,0.05,2024-08-30,Norte,Yes
+50684,1093,Portátil Air,Electrónica,3,1204.54,0.0,2025-02-24,Sur,Yes
+50685,1164,Smartphone X,Electrónica,3,676.28,0.2,2025-01-09,Oeste,Yes
+50686,1011,Coche Teledirigido,Juguetes,1,54.81,0.2,2024-11-19,Sur,Yes
+50687,1137,Juego Bloques 500pzs,Juguetes,1,41.01,0.0,2025-04-01,Oeste,Yes
+50688,1384,Sartén Antiadherente,Hogar,3,31.89,0.4,2025-04-27,Oeste,Yes
+50689,1178,Smartphone X,Electrónica,8,676.22,0.4,2025-03-27,Norte,Yes
+50690,1285,Auriculares Pro,Electrónica,1,122.81,0.0,2025-07-06,Este,Yes
+50691,1044,Auriculares Pro,Electrónica,1,142.97,0.0,2024-09-14,Oeste,Yes
+50692,1255,Cafetera Espresso,Hogar,1,247.57,0.05,2025-05-27,Sur,Yes
+50693,1149,Portátil Air,Electrónica,2,1305.59,0.0,2024-10-17,Norte,Yes
+50694,1298,Camiseta Básica,Ropa,1,11.55,0.0,2024-06-10,Oeste,Yes
+50695,1372,Coche Teledirigido,Juguetes,1,60.01,0.0,2024-05-20,Oeste,Yes
+50696,1213,Coche Teledirigido,Juguetes,3,58.77,0.4,2024-04-20,Este,Yes
+50697,1042,Juego Bloques 500pzs,Juguetes,1,39.65,0.0,2025-08-07,Este,Yes
+50698,1191,Camiseta Básica,Ropa,2,13.2,0.15,2024-06-02,Norte,No
+50699,1050,Sartén Antiadherente,Hogar,1,31.7,0.0,2025-06-02,Oeste,Yes
+50700,1180,Portátil Air,Electrónica,6,1261.65,0.0,2025-05-05,,Yes
+50701,1025,Coche Teledirigido,Juguetes,2,55.89,0.2,2024-10-28,Norte,Yes
+50702,1257,Auriculares Pro,Electrónica,1,127.51,0.0,2025-07-15,Este,Yes
+50703,1125,Cafetera Espresso,Hogar,1,233.89,0.0,2025-07-12,Oeste,Yes
+50704,1081,Sartén Antiadherente,Hogar,3,34.77,0.0,2025-07-22,Oeste,Yes
+50705,1007,Juego Bloques 500pzs,Juguetes,5,45.98,0.1,2024-11-28,Norte,Yes
+50706,1356,Zapatillas Running,Ropa,1,97.44,0.0,2024-08-11,Norte,Yes
+50707,1335,Auriculares Pro,Electrónica,1,141.26,0.0,2024-03-25,Oeste,Yes
+50708,1325,Juego Bloques 500pzs,Juguetes,1,48.64,0.0,2025-06-05,,Yes
+50709,1024,Aspiradora Ciclónica,Hogar,3,167.52,0.0,2025-06-23,Este,Yes
+50710,1140,Zapatillas Running,Ropa,6,85.55,0.0,2024-12-20,Este,Yes
+50711,1389,Chaqueta Invierno,Ropa,2,75.15,0.05,2024-04-08,Sur,Yes
+50712,1232,Chaqueta Invierno,Ropa,1,73.45,0.0,2025-05-26,Sur,Yes
+50713,1052,Zapatillas Running,Ropa,4,99.84,0.0,2024-08-11,Norte,Yes
+50714,1057,Camiseta Básica,Ropa,3,12.14,0.1,2024-12-27,Norte,Yes
+50715,1106,Camiseta Básica,Ropa,1,10.83,0.1,2025-02-26,Norte,Yes
+50716,1389,Camiseta Básica,Ropa,1,11.84,0.0,2024-05-20,Oeste,Yes
+50717,1068,Smartphone X,Electrónica,2,625.89,0.0,2024-04-04,Norte,Yes
+50718,1362,Muñeca Interactiva,Juguetes,4,38.85,0.0,2024-04-13,Norte,Yes
+50719,1272,Portátil Air,Electrónica,3,1060.06,0.4,2025-08-09,Este,Yes
+50720,1369,Auriculares Pro,Electrónica,3,133.78,0.0,2025-08-08,Norte,Yes
+50721,1331,Auriculares Pro,Electrónica,4,132.41,0.0,2024-10-21,,Yes
+50722,1133,Muñeca Interactiva,Juguetes,1,44.21,0.0,2024-10-20,Este,Yes
+50723,1332,Zapatillas Running,Ropa,1,100.64,0.0,2024-10-10,Sur,Yes
+50724,1068,Camiseta Básica,Ropa,1,11.64,0.0,2024-09-09,Este,Yes
+50725,1117,Chaqueta Invierno,Ropa,5,83.52,0.0,2024-12-24,Oeste,Yes
+50726,1085,Auriculares Pro,Electrónica,2,116.38,0.1,2024-09-12,Norte,Yes
+50727,1054,Camiseta Básica,Ropa,1,11.19,0.05,2025-02-02,Oeste,Yes
+50728,1037,Portátil Air,Electrónica,1,1226.96,0.1,2024-09-25,Oeste,Yes
+50729,1075,Juego Bloques 500pzs,Juguetes,3,38.2,0.15,2025-02-09,Oeste,Yes
+50730,1049,Smartphone X,Electrónica,3,697.18,0.0,2025-08-01,Este,Yes
+50731,1153,Zapatillas Running,Ropa,3,88.22,0.3,2024-06-21,Este,Yes
+50732,1029,Juego Bloques 500pzs,Juguetes,1,45.32,0.1,2024-04-04,Este,Yes
+50733,1025,Coche Teledirigido,Juguetes,6,54.55,0.15,2024-12-15,,Yes
+50734,1396,Sartén Antiadherente,Hogar,4,32.95,0.1,2024-05-05,Norte,Yes
+50735,1036,Portátil Air,Electrónica,3,1200.62,0.0,2024-07-06,Oeste,Yes
+50736,1030,Chaqueta Invierno,Ropa,3,86.74,0.0,2025-05-08,Este,Yes
+50737,1013,Portátil Air,Electrónica,5,1199.57,0.0,2024-10-16,Oeste,Yes
+50738,1054,Aspiradora Ciclónica,Hogar,6,150.45,0.0,2024-12-27,Sur,No
+50739,1212,Camiseta Básica,Ropa,2,11.79,0.05,2025-05-01,Norte,Yes
+50740,1331,Aspiradora Ciclónica,Hogar,2,144.04,0.0,2024-05-10,Sur,Yes
+50741,1294,Aspiradora Ciclónica,Hogar,2,163.52,0.0,2024-11-18,Sur,Yes
+50742,1233,Muñeca Interactiva,Juguetes,4,40.61,0.3,2024-03-19,Sur,Yes
+50743,1035,Chaqueta Invierno,Ropa,3,92.65,0.1,2024-11-30,Sur,Yes
+50744,1310,Muñeca Interactiva,Juguetes,1,37.3,0.05,2024-07-02,Norte,Yes
+50745,1015,Chaqueta Invierno,Ropa,1,77.52,0.0,2025-07-14,Este,Yes
+50746,1253,Cafetera Espresso,Hogar,5,238.96,0.05,2024-07-22,Sur,Yes
+50747,1164,Aspiradora Ciclónica,Hogar,5,161.36,0.2,2024-06-18,Oeste,Yes
+50748,1353,Juego Bloques 500pzs,Juguetes,7,46.2,0.1,2024-03-08,Norte,Yes
+50749,1124,Zapatillas Running,Ropa,2,94.65,0.05,2024-05-13,Sur,Yes
+50750,1256,Juego Bloques 500pzs,Juguetes,4,48.42,0.05,2024-06-27,Sur,No
+50751,1176,Chaqueta Invierno,Ropa,4,75.59,0.0,2024-07-04,,Yes
+50752,1209,Zapatillas Running,Ropa,1,101.56,0.1,2025-04-10,Sur,Yes
+50753,1376,Zapatillas Running,Ropa,1,98.58,0.5,2025-07-01,,No
+50754,1286,Cafetera Espresso,Hogar,8,248.79,0.0,2025-06-13,Oeste,Yes
+50755,1166,Aspiradora Ciclónica,Hogar,1,155.49,0.0,2025-08-08,Sur,Yes
+50756,1179,Smartphone X,Electrónica,2,817.74,0.0,2025-07-07,Este,Yes
+50757,1282,Juego Bloques 500pzs,Juguetes,3,42.43,0.0,2024-11-06,Norte,Yes
+50758,1139,Juego Bloques 500pzs,Juguetes,3,45.94,,2024-10-01,Norte,Yes
+50759,1068,Auriculares Pro,Electrónica,1,122.23,0.1,2025-02-20,Sur,Yes
+50760,1188,Muñeca Interactiva,Juguetes,3,43.87,0.0,2024-08-23,Norte,Yes
+50761,1028,Aspiradora Ciclónica,Hogar,1,168.87,0.0,2025-01-26,Este,Yes
+50762,1068,Auriculares Pro,Electrónica,4,122.87,0.0,2025-08-31,Este,Yes
+50763,1169,Zapatillas Running,Ropa,1,98.41,0.0,2024-06-17,Este,Yes
+50764,1319,Coche Teledirigido,Juguetes,3,60.06,0.05,2025-04-27,Sur,Yes
+50765,1313,Camiseta Básica,Ropa,4,11.57,0.15,2025-07-27,Este,Yes
+50766,1105,Muñeca Interactiva,Juguetes,1,41.07,0.1,2024-12-21,Sur,Yes
+50767,1169,Zapatillas Running,Ropa,1,97.59,0.0,2024-09-12,Norte,Yes
+50768,1062,Portátil Air,Electrónica,4,1217.1,0.1,2024-07-18,Norte,Yes
+50769,1303,Chaqueta Invierno,Ropa,1,78.77,0.1,2024-06-01,Este,Yes
+50770,1099,Sartén Antiadherente,Hogar,1,32.97,0.0,2024-08-24,Oeste,Yes
+50771,1320,Cafetera Espresso,Hogar,2,253.0,,2025-04-14,Norte,Yes
+50772,1337,Muñeca Interactiva,Juguetes,6,39.16,0.05,2024-12-08,,Yes
+50773,1276,Portátil Air,Electrónica,2,1145.2,0.2,2024-06-30,Este,Yes
+50774,1133,Muñeca Interactiva,Juguetes,2,43.62,0.0,2024-12-23,Oeste,Yes
+50775,1382,Sartén Antiadherente,Hogar,7,29.65,0.0,2025-05-19,Este,Yes
+50776,1275,Auriculares Pro,Electrónica,2,132.86,0.05,2024-03-08,Este,Yes
+50777,1259,Muñeca Interactiva,Juguetes,2,38.13,0.0,2024-03-12,,Yes
+50778,1343,Chaqueta Invierno,Ropa,2,88.73,0.0,2025-08-09,Oeste,Yes
+50779,1353,Aspiradora Ciclónica,Hogar,1,148.94,0.15,2025-04-15,Norte,Yes
+50780,1032,Cafetera Espresso,Hogar,1,236.18,0.0,2025-01-11,Oeste,Yes
+50781,1353,Smartphone X,Electrónica,3,651.55,0.05,2025-07-11,Norte,Yes
+50782,1307,Portátil Air,Electrónica,1,1226.15,0.5,2025-01-18,Oeste,Yes
+50783,1083,Cafetera Espresso,Hogar,3,225.07,0.05,2024-12-11,Norte,Yes
+50784,1124,Camiseta Básica,Ropa,1,11.6,0.05,2024-06-25,Norte,No
+50785,1302,Smartphone X,Electrónica,2,593.68,0.05,2025-05-20,Norte,Yes
+50786,1087,Smartphone X,Electrónica,1,710.76,0.0,2025-04-24,Sur,Yes
+50787,1181,Juego Bloques 500pzs,Juguetes,2,43.42,0.0,2024-08-10,Sur,Yes
+50788,1276,Auriculares Pro,Electrónica,3,115.56,0.1,2025-04-09,Norte,Yes
+50789,1261,Auriculares Pro,Electrónica,2,138.8,0.0,2025-04-04,Sur,Yes
+50790,1364,Sartén Antiadherente,Hogar,1,29.07,0.0,2024-04-22,Sur,Yes
+50791,1045,Auriculares Pro,Electrónica,1,136.2,,2024-05-28,Oeste,Yes
+50792,1119,Aspiradora Ciclónica,Hogar,4,151.2,0.2,2025-01-21,Oeste,No
+50793,1394,Sartén Antiadherente,Hogar,1,35.59,0.0,2025-02-06,Este,Yes
+50794,1228,Aspiradora Ciclónica,Hogar,4,167.34,0.1,2025-02-25,,No
+50795,1100,Zapatillas Running,Ropa,1,88.3,,2024-09-21,Sur,Yes
+50796,1116,Juego Bloques 500pzs,Juguetes,1,42.11,0.05,2025-06-02,Oeste,Yes
+50797,1136,Aspiradora Ciclónica,Hogar,3,165.74,0.0,2024-10-31,Norte,Yes
+50798,1222,Chaqueta Invierno,Ropa,2,77.55,0.0,2024-06-22,Sur,Yes
+50799,1114,Smartphone X,Electrónica,1,690.71,0.05,2024-05-03,Oeste,Yes
+50800,1249,Camiseta Básica,Ropa,7,13.07,,2025-06-25,Oeste,Yes
